@@ -18,11 +18,10 @@ public class Arrays {
 		System.out.println("Vargu i kthyer: ");
 		for (int num : reversed) {
             System.out.print(num + " ");
-        }
+                }
         System.out.println(); 
         }
-	}
-
+}
 	
 	
       
